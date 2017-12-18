@@ -31,9 +31,10 @@
                 FontAttributes="Bold"/>
             
             <Label
-                Text="p2e2t7@hotmail.com"
+                Text="p2e2t7@gmail.com"
                 TextColor="White"
                 FontAttributes="Bold"/>
+            
         </StackLayout>
         
         <BoxView
@@ -42,6 +43,7 @@
         
         <ScrollView
             Grid.Row="1">
+            
             <StackLayout
                 Orientation="Vertical"
                 Padding="20">
@@ -114,7 +116,9 @@
                 Text="Carousel Page"
                 BackgroundColor="Silver"/>
         </StackLayout>
-            </ScrollView>
+            
+        </ScrollView>
+        
     </Grid>
 
 </ContentPage>

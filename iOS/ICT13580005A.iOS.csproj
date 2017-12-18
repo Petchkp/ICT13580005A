@@ -121,11 +121,6 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\prayer-smiley.png" />
-    <BundleResource Include="Resources\icons8-Settings-100.png" />
-    <BundleResource Include="Resources\icons8-OneDrive-100.png" />
-    <BundleResource Include="Resources\icons8-Xlarge Icons-100.png" />
-    <BundleResource Include="Resources\icons8-Happy-100.png" />
-    <BundleResource Include="Resources\icons8-User-100.png" />
     <BundleResource Include="Resources\icons8-Menu Filled_25.png" />
     <BundleResource Include="Resources\icons8-Edit_20.png" />
     <BundleResource Include="Resources\icons8-Search_20.png" />

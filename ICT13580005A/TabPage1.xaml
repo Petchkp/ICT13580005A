@@ -5,6 +5,6 @@
 	x:Class="ICT13580005A.TabPage1"
     Title="Page 1"
     BackgroundColor="Red"
-    Icon="icons8-Home_20.png">
+    Icon="icons8-Home_20">
 
 </ContentPage>

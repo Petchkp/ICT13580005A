@@ -8,6 +8,7 @@
     Padding="0,20,0,1">
 
     <ScrollView>
+        
     <StackLayout
         BackgroundColor="#778899"
         Orientation="Vertical">
@@ -89,5 +90,6 @@
             HeightRequest="650"/>
 
     </StackLayout>
+        
     </ScrollView>
 </ContentPage>
